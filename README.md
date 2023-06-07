@@ -1,4 +1,4 @@
-# Lua Exploit Script for Roblox JailBreak 
+# Script for Roblox JailBreak 
 
 > **NOTE: This project is purely educational and is not intended to be used for illegal activities.**
 
